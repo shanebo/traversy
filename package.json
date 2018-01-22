@@ -1,0 +1,12 @@
+{
+  "name": "traversy",
+  "version": "0.0.1",
+  "description": "Dead simple directory traversal with regex filtering and callbacks on matches.",
+  "keywords": [
+    "traverse"
+  ],
+  "repository": "git://github.com/shanebo/traversy.git",
+  "author": "Shane Thacker <shane@steadymade.com>",
+  "engine": ">= 0.4.1",
+  "main": "./index"
+}
