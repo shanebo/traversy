@@ -11,5 +11,7 @@ function dirToArray(path, filter) {
 }
 
 module.exports = (dir, filter, cb) => {
-  return dirToArray(dir, filter).forEach(path => cb(path));
+  const results = dirToArray(dir, filter);
+  results.forEach(path => cb(path));
+  return results;
 }
