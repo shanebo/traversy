@@ -1,6 +1,6 @@
 {
   "name": "traversy",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Dead simple directory traversal with regex filtering and callbacks on matches.",
   "keywords": [
     "traverse"
